@@ -4,13 +4,17 @@
 - 🌱 I’m currently learning **React**
 
 - 📫 Contact me **sakshamshahu.work@gmail.com**
+<br>
+<br>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/sakshamshahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshamshahu" height="30" width="40" /></a>
 </p>
+<br>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -65,10 +69,11 @@
 <br>
 <br>
 
+## 📊 GitHub Stats:
 <div align=center>
-  <img src= "https://github-readme-stats.vercel.app/api?username=sakshamshahu&show_icons=true&locale=en" alt="sakshamshahu" width=400px height=250px>
+  <img src= "https://github-readme-stats.vercel.app/api?username=sakshamshahu&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true" alt="sakshamshahu" width=400px height=250px>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamshahu&" alt="sakshamshahu" width=400px height=250px>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamshahu&theme=vision-friendly-dark&hide_border=false" alt="sakshamshahu" width=400px height=250px>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamshahu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=400px height=250px>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamshahu&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width=400px height=250px>
 </div>
