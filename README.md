@@ -3,7 +3,10 @@
 <h2 align ="left"> 
 About
 </h2>
-An avid learner who likes to read and write, lover of science and math with a dream to scale it to new possibilites with the passion for computational development  
+An avid learner who likes to read and write, lover of science and math with a dream to scale it to new possibilites with the passion for computational development
+<br>
+Curious, Optimistic, Indefatigable.
+<br> 
 📫 Reach me at **sakshamshahu.work@gmail.com**
 <br>
 <br>
