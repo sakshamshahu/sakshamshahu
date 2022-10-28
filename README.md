@@ -1,8 +1,10 @@
 <h1 align="left">Hello 👋, I'm Saksham 🥷</h1>
 
-- 🌱 I’m currently learning **React**
-
-- 📫 Contact me **sakshamshahu.work@gmail.com**
+<h2 align ="left"> 
+About
+</h2>
+An avid learner who likes to read and write, lover of science and math with a dream to scale it to new possibilites with the passion for computational development  
+📫 Reach me at **sakshamshahu.work@gmail.com**
 <br>
 <br>
 
