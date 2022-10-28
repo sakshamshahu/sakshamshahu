@@ -6,8 +6,8 @@ About
 An avid learner who likes to read and write, lover of science and math with a dream to scale it to new possibilites with the passion for computational development
 <br>
 Curious, Optimistic, Indefatigable.
-<br> 
-📫 Reach me at **sakshamshahu.work@gmail.com**
+<br>
+📫 Reach me at sakshamshahu.work@gmail.com
 <br>
 <br>
 
