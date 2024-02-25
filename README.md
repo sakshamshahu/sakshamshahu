@@ -7,7 +7,7 @@ An avid learner who likes to read and write, lover of science and math with a dr
 <br>
 Curious, Optimistic, Indefatigable.
 <br>
-📫 Reach me at **sakshamshahu.work@gmail.com**
+- 📫 Reach me at [E-mail](sakshamshahu.work@gmail.com)
 <br>
 <br>
 
