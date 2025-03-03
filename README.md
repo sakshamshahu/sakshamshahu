@@ -75,11 +75,6 @@ Curious, Optimistic, Indefatigable.
 
 ## 📊 GitHub Stats:
 <div align=center>
-  <img src= "https://github-readme-stats.vercel.app/api?username=sakshamshahu&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true" alt="sakshamshahu" width=400px height=250px>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamshahu&theme=vision-friendly-dark&hide_border=false" alt="sakshamshahu" width=400px height=250px>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamshahu&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width=400px height=250px>
 </div>
 
 [![@rax's Holopin board](https://holopin.me/rax)](https://holopin.io/@rax)
